@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+GriffinViewTool::Renderer.copyright 'Jason Griffin', 'All rights reserved'
+```
 
 ## Development
 
